@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  background-color: #e99803;
+  padding: 0px;
+  
+}
+.heading_style {
+  padding: 20px;
+  text-align: center;
+  background-color: #fff;
+  font-family: "Raleway", sans-serif;
+  /* font-size: 1.5rem; */
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  border: solid;
+  border-radius: 12px;
+  
+}
+.heading_style:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0,0,0,0.1);
+  transform: scale(1.05, 1.05);
+  background-color: rgba(228, 240, 163, 0.89);
+
+
+}
+
+.slotmachine {
+  border: 5px black;
+  margin: 16px 24px 24px 300px;
+  background-color: bisque;
+  color:rgb(161, 69, 7);
+  border-radius: 12px;
+  width: 57%;
+  height: 40%;
+  letter-spacing: 0.5px;
+  padding: 16px 24px 24px 30px;
+  border-style: solid;
+}
+.slotmachine:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0,0,0,0.1);
+  transform: scale(1.05, 1.05);
+
+}
+
+.emo {
+  letter-spacing: 40px;
+  background-color: bisque;
+  text-align: center;
+}
+.slot_inner{
+  border: 10px black;
+  background-color: bisque;
+}
+span {
+  color:chocolate;
+  background-color: #fff;
+}
+.result {
+  background-color: bisque;
+  text-align: center;
+}
+.result:hover {
+  color: red;
+}
